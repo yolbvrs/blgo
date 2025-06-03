@@ -1,2 +1,0 @@
-# blgo
-Bars' Blog
